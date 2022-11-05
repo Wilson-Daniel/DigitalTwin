@@ -1,0 +1,19 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Unity Native Android"
+include ':app'
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('C:\\Users\\wilso\\OneDrive\\Desktop\\AndroidProject\\unityLibrary')

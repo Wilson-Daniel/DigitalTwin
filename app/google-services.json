@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557372750257",
+    "project_id": "unity-native-android",
+    "storage_bucket": "unity-native-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557372750257:android:cdd70405f96a176a02e590",
+        "android_client_info": {
+          "package_name": "com.pushpendra.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557372750257-801l7mnjnmav4r0dcq748gjhcij5rm2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfbTJDBukzsTs9uRO63cqhyhYnJVrwoNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557372750257-801l7mnjnmav4r0dcq748gjhcij5rm2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
